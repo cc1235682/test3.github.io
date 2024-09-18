@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.top-area {
+    margin-bottom: 20px;
+}
+
+.top-area img {
+    width: 300px;
+    height: auto;
+}
+
+.bottom-area {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-area img {
+    width: 100px;
+    height: auto;
+    margin: 0 10px;
+    cursor: pointer;
+}
